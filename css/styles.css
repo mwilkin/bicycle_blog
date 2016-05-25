@@ -4,13 +4,15 @@
   font-weight: bold;
 }
 
-.bike{
-  font-family: sans-serif;
-  font-size: 18px;
-}
-
 .maintext{
   font-family: cursive;
   font-weight: lighter;
-  margin-right: 100px;
+}
+
+.entry{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 3px solid;
+  background: grey;
+  padding: 2px 6px 2px 6px;
 }
