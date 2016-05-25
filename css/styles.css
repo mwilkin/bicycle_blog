@@ -1,0 +1,16 @@
+.about{
+  font-size: 22px;
+  color: blue;
+  font-weight: bold;
+}
+
+.bike{
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.maintext{
+  font-family: cursive;
+  font-weight: lighter;
+  margin-right: 100px;
+}
